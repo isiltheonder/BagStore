@@ -1,0 +1,19 @@
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.product-name {
+    height:3rem;
+    overflow:hidden;
+    font-weight:500;
+}
+.number-input > .quantity {
+    width: 70px;
+}
